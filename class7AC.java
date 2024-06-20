@@ -1,5 +1,4 @@
 public class class7AC {
-    
  public static void main (String[] args){
  account s1 =new account();
  s1.name="sufyaan ahmad";
