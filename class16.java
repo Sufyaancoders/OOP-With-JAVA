@@ -1,5 +1,4 @@
 import java.io.FileInputStream;
-
 public class class16 {
     public static void main(String[] args) {
 try{
@@ -20,10 +19,9 @@ System.out.println(b[3]);
 int a4=fin.available();
 System.out.println("Remaining:"+a4);
 fin.close();
-}catch(Exception ee)
+}catch(Exception e)
 {
-System.out.println(ee);
+System.out.println(e);
+}   
 }
 }
-}
-    
